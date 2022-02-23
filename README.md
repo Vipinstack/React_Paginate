@@ -1,3 +1,8 @@
+React Paginates
+
+![Screenshot (56)](https://user-images.githubusercontent.com/77378764/155308821-383b9019-877d-410a-847f-c2c441de32fd.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
